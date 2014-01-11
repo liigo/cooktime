@@ -1,7 +1,7 @@
 ﻿cooktime
 ========
 
-一个很简单的计算煮饭时间的Android手机软件。
+一个很简单的计算煮饭时间的Android手机软件。下载地址：[CookTime.apk](https://github.com/liigo/cooktime/raw/master/bin/CookTime.apk) (270KB)
 
 其主要功能是：
 
